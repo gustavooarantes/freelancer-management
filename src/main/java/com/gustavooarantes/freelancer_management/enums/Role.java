@@ -1,7 +1,7 @@
 package com.gustavooarantes.freelancer_management.enums;
 
 public enum Role {
-  ADMIN,
-  FREELANCER,
-  CUSTOMER
+	ROLE_ADMIN,
+	ROLE_FREELANCER,
+	ROLE_CUSTOMER
 }
